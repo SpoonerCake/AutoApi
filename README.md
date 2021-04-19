@@ -87,7 +87,7 @@ AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~
  
      GH_TOKEN
      ```shell
-     github密钥                  ( 直接粘贴进去 )
+     github密钥                  ( 直接粘贴进去 
      ```
      ACCOUNT_ADD
      ```shell
